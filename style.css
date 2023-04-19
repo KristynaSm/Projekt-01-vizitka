@@ -35,12 +35,15 @@ h3{
     color:darkblue;
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
-    margin: 0px
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
+
 img {
     float:center;
     width: 350px;
     height:auto;
+    margin-left: 15px;
     margin: 0 45px 45px 0px;
     border-style: dashed;
 }
